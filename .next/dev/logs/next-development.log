@@ -1,0 +1,97 @@
+[00:00:00.857] Server  LOG     ✓ Ready in 499ms
+[00:00:01.789] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:54.551] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:34.347] Server  LOG     ✓ Compiled in 639ms
+[00:03:42.438] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:05.480] Server  LOG     ✓ Compiled in 41ms
+[00:04:06.111] Server  LOG     ✓ Compiled in 45ms
+[00:04:23.275] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:12.107] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:17.067] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:45.164] Server  LOG     ✓ Compiled in 2.7s
+[00:07:06.028] Server  LOG     ✓ Compiled in 88ms
+[00:07:06.168] Browser ERROR   uncaughtError: ReferenceError: inputText is not defined
+[00:07:21.103] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:21.126] Server  LOG     ✓ Compiled in 204ms
+[00:07:21.894] Server  ERROR   ⨯ ReferenceError: inputText is not defined
+[00:07:22.439] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:22.653] Browser ERROR   uncaughtError: ReferenceError: inputText is not defined
+[00:07:43.985] Server  ERROR   ⨯ ReferenceError: inputText is not defined
+[00:07:44.654] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:44.865] Browser ERROR   uncaughtError: ReferenceError: inputText is not defined
+[00:08:03.254] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:08:03.341] Server  LOG     ✓ Compiled in 51ms
+[00:08:03.567] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:08.822] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:52.942] Server  LOG     ✓ Compiled in 164ms
+[00:13:58.778] Server  LOG     ✓ Compiled in 249ms
+[00:17:42.970] Server  LOG     ✓ Compiled in 136ms
+[00:19:52.051] Server  LOG       Reload env: .env.local
+[00:19:53.258] Server  LOG     ✓ Compiled in 1470ms
+[00:23:07.000] Server  ERROR   API Error: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: fetch failed
+[11:03:56.176] Server  LOG     ✓ Compiled in 747ms
+[11:05:37.994] Server  LOG     ✓ Compiled in 187ms
+[11:07:31.569] Server  LOG     ✓ Compiled in 454ms
+[11:07:31.718] Browser ERROR   uncaughtError: ReferenceError: endpointId is not defined
+[11:09:52.102] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[11:09:52.106] Server  LOG     ✓ Compiled in 160ms
+[11:09:52.757] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[11:45:22.211] Server  LOG     ✓ Compiled in 1801ms
+[11:56:48.724] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[23:34:49.604] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[23:40:08.503] Server  LOG     ✓ Compiled in 1251ms
+[23:42:08.436] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[24:25:37.813] Server  LOG       Reload env: .env.local
+[24:25:39.202] Server  LOG     ✓ Compiled in 1046ms
+[24:26:44.063] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[35:20:12.826] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[42:24:14.643] Server  LOG     ✓ Compiled in 557ms
+[42:25:39.442] Server  LOG     ✓ Compiled in 114ms
+[42:30:24.615] Server  LOG     ✓ Compiled in 719ms
+[42:40:56.746] Server  LOG     ✓ Compiled in 187ms
+[42:42:05.076] Server  LOG     ✓ Compiled in 174ms
+[42:42:51.081] Server  LOG     ✓ Compiled in 58ms
+[42:44:08.025] Server  LOG     ✓ Compiled in 72ms
+[42:45:09.416] Server  LOG     ✓ Compiled in 72ms
+[42:45:15.656] Server  LOG     ✓ Compiled in 33ms
+[43:14:28.497] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[44:58:14.968] Server  LOG     ✓ Compiled in 874ms
+[44:58:15.075] Browser ERROR   ./src/components/RecipeDisplay.tsx:263:2
+Parsing ecmascript source code failed
+  261 |     </div>
+  262 |   );
+> 263 | }
+      |  ^
+  264 |
+
+Expected '}', got '<eof>'
+
+Import traces:
+  Client Component Browser:
+    ./src/components/RecipeDisplay.tsx [Client Component Browser]
+    ./src/components/RecipeGenerator.tsx [Client Component Browser]
+    ./src/components/RecipeGenerator.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/RecipeDisplay.tsx [Client Component SSR]
+    ./src/components/RecipeGenerator.tsx [Client Component SSR]
+    ./src/components/RecipeGenerator.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+[45:03:30.269] Server  LOG     ✓ Compiled in 276ms
+[45:04:19.694] Server  LOG     ✓ Compiled in 144ms
+[45:05:05.333] Server  LOG     ✓ Compiled in 65ms
+[45:49:01.687] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[45:50:24.501] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[46:09:59.405] Server  LOG     ✓ Compiled in 144ms
+[46:10:21.944] Server  LOG     ✓ Compiled in 105ms
+[46:13:58.939] Server  LOG     ✓ Compiled in 83ms
+[46:17:47.503] Server  LOG     ✓ Compiled in 73ms
+[46:18:04.911] Server  LOG     ✓ Compiled in 66ms
+[46:27:13.851] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[46:37:25.148] Server  LOG     ✓ Compiled in 185ms
+[46:41:16.359] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[46:54:23.057] Server  LOG     ✓ Compiled in 271ms
+[46:57:13.622] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[47:12:24.601] Server  LOG     ✓ Compiled in 196ms
+[47:20:21.325] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
