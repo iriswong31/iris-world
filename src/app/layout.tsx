@@ -30,6 +30,12 @@ export default function RootLayout({
               >
                 IRIS出品
               </Link>
+              <Link
+                href="/hotspot"
+                className="ml-3 px-4 py-2 rounded-full text-sm font-medium bg-orange-100 text-orange-700 border border-orange-300"
+              >
+                今日热点播客
+              </Link>
             </div>
           </header>
           {children}

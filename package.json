@@ -7,7 +7,9 @@
     "dev": "NEXT_TELEMETRY_DISABLED=1 next dev",
     "build": "NEXT_TELEMETRY_DISABLED=1 next build",
     "start": "NEXT_TELEMETRY_DISABLED=1 next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "skill:deploy": "bash scripts/deploy.sh",
+    "claude": "npx -y @anthropic-ai/claude-code"
   },
   "keywords": [],
   "author": "",
