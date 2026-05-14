@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    { "source": "/travel", "destination": "/travel/index.html" },
+    { "source": "/travel/", "destination": "/travel/index.html" },
+    { "source": "/travel/italy", "destination": "/travel/italy/index.html" },
+    { "source": "/travel/italy/", "destination": "/travel/italy/index.html" }
+  ],
+  "trailingSlash": false
+}
