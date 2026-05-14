@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/family-journey", "destination": "/family-journey/index.html" },
-    { "source": "/family-journey/", "destination": "/family-journey/index.html" },
-    { "source": "/family-journey/italy", "destination": "/family-journey/italy/index.html" },
-    { "source": "/family-journey/italy/", "destination": "/family-journey/italy/index.html" }
-  ]
-}
