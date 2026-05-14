@@ -3,3 +3,7 @@ node_modules
 .env.local
 .DS_Store
 *.log
+
+# public/<app>/ 由 prebuild 自动同步生成，不需要 commit
+# 真正的源代码在 apps/<app>/
+public/family-journey/
